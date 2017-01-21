@@ -1,4 +1,5 @@
-// Given 2 int values, return whichever value is nearest to the value 10, or return 0 in the event of a tie. 
+// Given 2 int values, return whichever value is nearest to the value 10, 
+// or return 0 in the event of a tie. 
 
 public class Main {
   public int close10() {
